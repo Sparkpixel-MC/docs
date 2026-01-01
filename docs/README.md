@@ -8,9 +8,9 @@ config:
     forceDark: true
     effect: lightning
     hero:
-      name: Theme Plume
-      tagline: VuePress Next Theme
-      text: 一个简约的，功能丰富的 vuepress 文档&博客 主题
+      name: Sparkpixel Wiki
+      tagline: Sparkpixel 帮助中心
+      text: 
       actions:
         -
           theme: brand
