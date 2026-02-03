@@ -1,10 +1,9 @@
 ---
-title: Minecraft 合成表组件
+title: Towny 插件使用指南(详尽)
 tags:
   - minecraft
-  - vue
-createTime: 2026/01/01 01:04:50
-permalink: /guide/preview/custom-component/
+  - towny
+writer: Azureheru
 ---
 
 # Minecraft 合成表组件
