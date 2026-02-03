@@ -15,16 +15,16 @@ writer: Azureheru
 
 ## 常用指令
 
-- `` `/mcmmo` ``：显示 MCMMO 插件描述  
-- `` `/mctop` ``：查看全服技能等级排行榜  
-- `` `/mcrank` ``：查看自身技能等级排名  
-- `` `/mcstats` ``：查看自身所有技能状态与经验  
-- `` `/<skill>` ``：查看指定技能详情（如 `` `/swords` ``）  
-- `` `/party create` `` / `` `/party invite <玩家>` `` / `` `/party accept` `` / `` `/party quit` `` / `` `/party rename <名称>` `` / `` `/party kick <玩家>` ``：小队相关操作  
-- `` `/party chat on` `` / `` `/party chat off` ``：开启/关闭小队聊天  
-- `` `/partychat` `` / `` `/pc` `` / `` `/p` ``：切换至小队聊天模式  
-- `` `/party teleport <选项>` ``：设置小队传送权限  
-- `` `/ptp` ``：向小队成员发起传送请求  
+- ` /mcmmo `：显示 MCMMO 插件描述  
+- ` /mctop `：查看全服技能等级排行榜  
+- ` /mcrank `：查看自身技能等级排名  
+- ` /mcstats `：查看自身所有技能状态与经验  
+- ` /<skill> `：查看指定技能详情（如 ` /swords `）  
+- ` /party create ` / ` /party invite <玩家> ` / ` /party accept ` / ` /party quit ` / ` /party rename <名称> ` / ` /party kick <玩家> `：小队相关操作  
+- ` /party chat on ` / ` /party chat off `：开启/关闭小队聊天  
+- ` /partychat ` / ` /pc ` / ` /p `：切换至小队聊天模式  
+- ` /party teleport <选项> `：设置小队传送权限  
+- ` /ptp `：向小队成员发起传送请求  
 
 ---
 
