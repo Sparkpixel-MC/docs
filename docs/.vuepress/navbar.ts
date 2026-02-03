@@ -8,15 +8,14 @@ import { defineNavbarConfig } from 'vuepress-theme-plume'
 
 export const zhNavbar = defineNavbarConfig([
   { text: '首页', link: '/' },
-  { text: '博客', link: '/blog/' },
   { text: '标签', link: '/blog/tags/' },
   { text: '归档', link: '/blog/archives/' },
   {
     text: '指南',
     items: [
-      { text: '快速开始', link: '/guide/getting-started.md' },
-      { text: '前端技巧', link: '/guide/frontend-tips.md' },
-      { text: 'Minecraft基础', link: '/guide/minecraft-basics.md' }
+      { text: 'Towny 插件使用指南', link: '/guide/preview/town-guide-detailed/' },
+      { text: 'MCMMO 游玩说明', link: '/guide/preview/mcmmo/' },
+      { text: '管理文档', link: '/admin/' }
     ]
   },
   {
