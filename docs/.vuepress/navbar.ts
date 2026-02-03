@@ -32,9 +32,9 @@ export const enNavbar = defineNavbarConfig([
   {
     text: 'Guide',
     items: [
-      { text: 'Getting Started', link: '/en/guide/getting-started.md' },
-      { text: 'Frontend Tips', link: '/en/guide/frontend-tips.md' },
-      { text: 'Minecraft Basics', link: '/en/guide/minecraft-basics.md' }
+     { text: 'Towny Plugin Guide(Chinese)', link: '/guide/preview/town-guide-detailed/' },
+    { text: 'MCMMO Gameplay Guide(Chinese)', link: '/guide/preview/mcmmo/' },
+    { text: 'Admin Documentation(Chinese)', link: '/admin/' }
     ]
   },
   {
