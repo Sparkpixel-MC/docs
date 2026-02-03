@@ -4,7 +4,7 @@ tags:
   - minecraft
   - vue
 createTime: 2026/01/01 01:04:50
-permalink: /guide/preview/custom-component/
+permalink: /admin/preview/custom-component/
 ---
 
 # Minecraft 合成表组件

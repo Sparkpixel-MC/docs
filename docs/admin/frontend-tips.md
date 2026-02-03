@@ -5,7 +5,7 @@ tags:
   - javascript
   - css
 createTime: 2026/01/01 15:00:00
-permalink: /guide/frontend-tips/
+permalink: /admin/frontend-tips/
 ---
 
 # 前端开发实用技巧

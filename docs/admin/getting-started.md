@@ -4,7 +4,7 @@ tags:
   - vuepress
   - tutorial
 createTime: 2026/01/01 10:00:00
-permalink: /guide/getting-started/
+permalink: /admin/getting-started/
 ---
 
 # VuePress 快速开始

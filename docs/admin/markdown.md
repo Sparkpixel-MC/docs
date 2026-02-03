@@ -3,7 +3,7 @@ title: Markdown
 tags:
   - markdown
 createTime: 2026/01/01 01:04:50
-permalink: /guide/preview/markdown/
+permalink: /admin/preview/markdown/
 ---
 
 ## 标题H2

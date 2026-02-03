@@ -4,7 +4,7 @@ tags:
   - minecraft
   - game
 createTime: 2026/01/01 12:00:00
-permalink: /guide/minecraft-basics/
+permalink: /admin/minecraft-basics/
 ---
 
 # Minecraft 基础指南
