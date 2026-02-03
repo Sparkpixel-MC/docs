@@ -4,7 +4,7 @@ tags:
   - minecraft
   - vue
 createTime: 2026/01/01 01:04:50
-permalink: /guide/preview/custom-component/
+permalink: /guide/preview/town-Guide-Detailed/
 ---
 # Towny 插件使用指南
 
@@ -676,5 +676,6 @@ Towny 是一个土地保护和 城镇/国家 模拟插件，允许玩家创建�
 
 
 - `t claim`
+
 
 
