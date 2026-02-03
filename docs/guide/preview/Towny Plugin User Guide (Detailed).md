@@ -1,12 +1,12 @@
 ---
-title: Minecraft 合成表组件
+title: Towny 插件使用指南
 tags:
   - minecraft
-  - vue
-createTime: 2026/01/01 01:04:50
+  - towny
+  - Detailed
 permalink: /guide/preview/town-Guide-Detailed/
+writer: Azureheru
 ---
-# Towny 插件使用指南
 
  
 
@@ -676,6 +676,7 @@ Towny 是一个土地保护和 城镇/国家 模拟插件，允许玩家创建�
 
 
 - `t claim`
+
 
 
 
