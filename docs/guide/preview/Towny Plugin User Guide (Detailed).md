@@ -1,11 +1,12 @@
 ---
-title: Towny 插件使用指南
+title: Towny 插件使用指南（详尽）
 tags:
   - minecraft
   - towny
   - Detailed
-permalink: /guide/preview/town-Guide-Detailed/
+permalink: /guide/preview/Town-Guide-Detailed/
 writer: Azureheru
+createTime: 2026/02/03 19:44:58
 ---
 
  
@@ -1362,5 +1363,6 @@ Towny 是一个土地保护和 城镇/国家 模拟插件，允许玩家创建�
 - `t claim`
 
 本文作者：Azureheru
+
 cdpyx部分修改
 

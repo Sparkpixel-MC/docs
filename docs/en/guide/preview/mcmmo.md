@@ -4,10 +4,13 @@ tags:
   - minecraft
   - mcmmo
   - Detailed
-permalink: /guide/preview/mcmmo/
+permalink: /en/guide/preview/mcmmo/
 writer: Azureheru
+createTime: 2026/02/04 16:03:25
 ---
-
+:::warning
+This article has been translated by AI and has not yet been manually proofread. Please prioritize viewing the Chinese Wiki and submit issues.
+:::
 
 The `MCMMO` plugin provides players with **leveling up**, **special skills**, **rare items**, **new mechanics**, and **deeper PvP experience**, giving Minecraft **MMORPG-style gameplay fun**.
 
@@ -226,4 +229,5 @@ The `MCMMO` plugin provides players with **leveling up**, **special skills**, **
   - **Roll**: Has a chance to **completely immune** or **halve** fall damage when falling; **sneak falling** can trigger **double roll effect**
 
 Author: Azureheru
-Modified by cdyxu
+
+Modified by cdpyx

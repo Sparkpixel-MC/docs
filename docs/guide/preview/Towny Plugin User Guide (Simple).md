@@ -1,11 +1,12 @@
 ---
-title: Towny 插件使用指南
+title: Towny 插件使用指南（简要）
 tags:
   - minecraft
   - towny
   - simple
-permalink: /guide/preview/town-Guide-simple/
+permalink: /guide/preview/Town-Guide-Simple/
 writer: Azureheru
+createTime: 2026/02/04 15:57:08
 ---
 
 # Towny 插件使用指南
@@ -96,7 +97,7 @@ writer: Azureheru
   示例：` /town toggle pvp ` 可开启/关闭城镇内 PvP
 
 ---
-####附录1
+#### 附录1
 
 | 权限           | 说明                                            |
 | -------------- | ----------------------------------------------- |
@@ -111,4 +112,5 @@ writer: Azureheru
 | **pvp**        | 允许/禁止玩家间战斗                             |
 | **taxpercent** | 设置城镇税收百分比（通过 `/town set tax` 命令） |
 本文作者：Azureheru
+
 cdpyx部分修改

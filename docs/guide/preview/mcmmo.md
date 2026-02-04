@@ -6,6 +6,7 @@ tags:
   - Detailed
 permalink: /guide/preview/mcmmo/
 writer: Azureheru
+createTime: 2026/02/03 20:10:08
 ---
 
 
@@ -227,3 +228,5 @@ writer: Azureheru
   - **翻滚**：坠落时有几率**完全免疫**或**减半**摔落伤害；**潜行坠落**可触发**双倍翻滚效果**
 
 本文作者：Azureheru
+
+cdpyx部分修改
