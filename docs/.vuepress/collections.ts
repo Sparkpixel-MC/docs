@@ -45,8 +45,17 @@ const zhGuideDoc = defineCollection({
   linkPrefix: '/guide',
   // 文档标题，它将用于在页面的面包屑导航中显示
   title: '指南',
-  // 根据文件结构自动生成侧边栏，包含 README.md
-  sidebar: 'auto',
+  // 手动配置侧边栏结构
+  sidebar: [
+    '',
+    {
+      text: '预览',
+      collapsible: true,
+      children: [
+        'preview',
+      ],
+    },
+  ],
   tags: true, // 是否启用标签
 })
 
