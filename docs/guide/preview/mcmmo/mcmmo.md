@@ -4,6 +4,7 @@ tags:
   - minecraft
   - mcmmo
   - Detailed
+  - Guide
 permalink: /guide/preview/mcmmo/
 writer: Azureheru
 createTime: 2026/02/03 20:10:08
@@ -13,7 +14,8 @@ createTime: 2026/02/03 20:10:08
 `MCMMO` 插件为玩家提供 **练级升级**、**特殊技能**、**稀有物品**、**全新机制** 和 **更深层次的 PvP 体验**，让 Minecraft 拥有 **MMORPG 式的游戏乐趣**。
 
 ---
-
+##目录
+[[toc]]
 ## 常用指令
 
 - ` /mcmmo `：显示 MCMMO 插件描述  

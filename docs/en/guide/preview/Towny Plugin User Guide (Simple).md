@@ -21,7 +21,8 @@ Territories are protected by **chunks**. Press `F3+G` to display chunk boundarie
 :::
 
 ---
-
+##catalogue
+[[toc]]
 ## Town Creation and Management
 
 ### Creating a Town

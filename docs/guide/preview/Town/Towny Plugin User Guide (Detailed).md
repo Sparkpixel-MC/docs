@@ -4,7 +4,8 @@ tags:
   - minecraft
   - towny
   - Detailed
-permalink: /guide/preview/Town-Guide-Detailed/
+  - Guide
+permalink: /guide/preview/Town/Guide-Detailed/
 writer: Azureheru
 createTime: 2026/02/03 19:44:58
 ---
@@ -13,8 +14,8 @@ createTime: 2026/02/03 19:44:58
 
 Towny 是一个土地保护和 城镇/国家 模拟插件，允许玩家创建、保护和管理城镇，拥有土地，并组建国家和联盟。本指南旨在全面描述 Towny 插件的各项功能。指南的第一部分（"**城镇基础**"）作为 Towny 的入门介绍，描述了创建城镇的初步步骤、如何购买土地以及各种基本功能。土地保护及其配置方法在第二部分（"**权限**"）中描述。其他部分与 Towny 插件的其他所有功能相关，涉及城镇、国家和插件提供的设置。
 
- 
-
+##目录
+[[toc]]
 ## 基本概念
 
 要理解 Towny 的工作原理，需要知道“区块与城镇天”、“城镇”、“居民”、“银行与税务”和“国家”的概念。

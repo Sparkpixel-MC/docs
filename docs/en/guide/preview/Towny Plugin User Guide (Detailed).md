@@ -14,7 +14,8 @@ This article has been translated by AI and has not yet been manually proofread. 
 
 
 Towny is a land protection and town/nation simulation plugin that allows players to create, protect, and manage towns, own land, and form nations and alliances. This guide aims to comprehensively describe all the functions of the Towny plugin. The first part of the guide ("**Town Basics**") serves as an introduction to Towny, describing the initial steps of creating a town, how to purchase land, and various basic functions. Land protection and its configuration methods are described in the second part ("**Permissions**"). Other sections relate to all other functions of the Towny plugin, involving towns, nations, and settings provided by the plugin.
-
+##catalogue
+[[toc]]
 
 
 ## Basic Concepts

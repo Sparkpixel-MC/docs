@@ -15,7 +15,8 @@ This article has been translated by AI and has not yet been manually proofread. 
 The `MCMMO` plugin provides players with **leveling up**, **special skills**, **rare items**, **new mechanics**, and **deeper PvP experience**, giving Minecraft **MMORPG-style gameplay fun**.
 
 ---
-
+##catalogue
+[[toc]]
 ## Common Commands
 
 - `/mcmmo`: Display MCMMO plugin description

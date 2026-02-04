@@ -11,8 +11,79 @@
  */
 
 import { defineThemeConfig } from 'vuepress-theme-plume'
-import { enCollections, zhCollections } from './collections'
+import { defineCollection, defineCollections } from 'vuepress-theme-plume'
 import { enNavbar, zhNavbar } from './navbar'
+
+// Define collections inline
+const zhBlog = defineCollection({
+  type: 'post',
+  dir: 'blog',
+  title: 'Blog',
+  link: '/blog/',
+  postList: true,
+  tags: true,
+  archives: true,
+  categories: true,
+  pagination: 15,
+})
+
+const zhDemoDoc = defineCollection({
+  type: 'doc',
+  dir: 'guide',
+  linkPrefix: '/guide',
+  title: 'guide',
+  sidebar: 'auto',
+})
+
+const zhGuideDoc = defineCollection({
+  type: 'doc',
+  dir: 'guide',
+  linkPrefix: '/guide',
+  title: '指南',
+  sidebar: 'auto',
+  tags: true,
+})
+
+const zhCollections = defineCollections([
+  zhBlog,
+  zhDemoDoc,
+  zhGuideDoc,
+])
+
+const enBlog = defineCollection({
+  type: 'post',
+  dir: 'blog',
+  title: 'Blog',
+  link: '/blog/',
+  postList: true,
+  tags: true,
+  archives: true,
+  categories: true,
+  pagination: 15,
+})
+
+const enDemoDoc = defineCollection({
+  type: 'doc',
+  dir: 'demo',
+  linkPrefix: '/demo',
+  title: 'Demo',
+  sidebar: ['', 'foo', 'bar'],
+})
+
+const enGuideDoc = defineCollection({
+  type: 'doc',
+  dir: 'guide',
+  linkPrefix: '/guide',
+  title: 'Guide',
+  link: '/guide/',
+  sidebar: 'auto',
+})
+
+const enCollections = defineCollections([
+  enBlog,
+  enDemoDoc,
+  enGuideDoc,
+])
 
 /**
  * @see https://theme-plume.vuejs.press/config/theme/
@@ -27,7 +98,7 @@ export default defineThemeConfig({
   ],
   // navbarSocialInclude: ['github'], // 允许显示在导航栏的 social 社交链接
   // aside: true, // 页内侧边栏， 默认显示在右侧
-  // outline: [2, 3], // 页内大纲， 默认显示 h2, h3
+  outline: [2, 3], // 页内大纲， 默认显示 h2, h3
 
   /**
    * 文章版权信息
