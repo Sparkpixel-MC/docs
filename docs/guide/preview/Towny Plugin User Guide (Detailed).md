@@ -1361,7 +1361,6 @@ Towny 是一个土地保护和 城镇/国家 模拟插件，允许玩家创建�
 
 - `t claim`
 
-作者：Azureheru
-
-
+本文作者：Azureheru
+cdpyx部分修改
 
