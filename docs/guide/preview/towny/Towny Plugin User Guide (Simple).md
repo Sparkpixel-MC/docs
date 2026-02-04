@@ -5,7 +5,7 @@ tags:
   - towny
   - simple
   - Guide
-permalink: /guide/preview/Town/Guide-Simple/
+permalink: /guide/preview/Towny/Guide-Simple/
 writer: Azureheru
 createTime: 2026/02/04 15:57:08
 ---

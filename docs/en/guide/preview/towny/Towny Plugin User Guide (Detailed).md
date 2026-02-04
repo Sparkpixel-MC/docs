@@ -4,7 +4,8 @@ tags:
   - minecraft
   - towny
   - Detailed
-permalink: /en/guide/preview/Town-Guide-Detailed/
+  - Guide
+permalink: /en/guide/preview/Towny/Guide-Detailed/
 writer: Azureheru
 createTime: 2026/02/04 16:03:25
 ---

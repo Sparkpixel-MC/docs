@@ -5,7 +5,7 @@ tags:
   - towny
   - Detailed
   - Guide
-permalink: /guide/preview/Town/Guide-Detailed/
+permalink: /guide/preview/Towny/Guide-Detailed/
 writer: Azureheru
 createTime: 2026/02/03 19:44:58
 ---

@@ -15,7 +15,7 @@ config:
         -
           theme: brand
           text: Wiki
-          link: /guide/
+          link: /en/guide/
         -
           theme: alt
           text: Github →

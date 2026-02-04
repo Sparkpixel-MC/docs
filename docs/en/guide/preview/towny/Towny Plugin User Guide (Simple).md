@@ -4,7 +4,8 @@ tags:
   - minecraft
   - towny
   - simple
-permalink: /en/guide/preview/Town-Guide-Simple/
+  - Guide
+permalink: /en/guide/preview/Towny/Guide-Simple/
 writer: Azureheru
 createTime: 2026/02/04 16:03:25
 ---
