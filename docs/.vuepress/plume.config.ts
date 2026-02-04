@@ -27,14 +27,6 @@ const zhBlog = defineCollection({
   pagination: 15,
 })
 
-const zhDemoDoc = defineCollection({
-  type: 'doc',
-  dir: 'guide',
-  linkPrefix: '/guide',
-  title: 'guide',
-  sidebar: 'auto',
-})
-
 const zhGuideDoc = defineCollection({
   type: 'doc',
   dir: 'guide',
@@ -46,7 +38,6 @@ const zhGuideDoc = defineCollection({
 
 const zhCollections = defineCollections([
   zhBlog,
-  zhDemoDoc,
   zhGuideDoc,
 ])
 
