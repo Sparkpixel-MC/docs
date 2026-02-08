@@ -147,16 +147,23 @@ export default defineUserConfig({
     // hostname: 'https://your_site_url',
 
     /* 文档仓库配置，用于 editLink */
-    // docsRepo: '',
-    // docsDir: 'docs',
-    // docsBranch: '',
+    docsRepo: 'Sparkpixel-MC/docs',
+    docsDir: 'docs',
+    docsBranch: 'main',
 
     /* 页内信息 */
-    // editLink: true,
-    // lastUpdated: true,
-    // contributors: true,
-    // changelog: false,
-  plugins: { git: true },
+    editLink: true,
+    lastUpdated: true,
+    contributors: true,
+    changelog: {
+      maxCount: 10,
+      repoUrl: 'https://github.com/Sparkpixel-MC/docs',
+    },
+
+    plugins: {
+      git: true,
+    },
+
     /**
      * 编译缓存，加快编译速度
      * @see https://theme-plume.vuejs.press/config/theme/#cache
