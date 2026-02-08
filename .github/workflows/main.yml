@@ -8,6 +8,8 @@ on:
 jobs:
   deploy-docs:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # 必须授权写入 gh-pages 分支
     steps:
       - uses: actions/checkout@v6
         with:
@@ -25,14 +27,15 @@ jobs:
       - name: Install deps
         run: pnpm install --frozen-lockfile
 
-    
-
       - name: Docs build
         run: pnpm docs:build
 
+     
+
       - name: Deploy docs
-        uses: JamesIves/github-pages-deploy-action@v4
+        uses: JamesIves/github-pages-deploy-action@v4.9.0  # 使用明确版本，避免 v4 标签漂移
         with:
           branch: gh-pages
           folder: docs/.vuepress/dist
           single-commit: true
+          clean: true  # 清理 gh-pages 上未跟踪的文件（可选）
