@@ -228,7 +228,3 @@ The `MCMMO` plugin provides players with **leveling up**, **special skills**, **
   - **Dodge**: Has a chance to **halve** non-fatal damage
 - **Active Skills**:
   - **Roll**: Has a chance to **completely immune** or **halve** fall damage when falling; **sneak falling** can trigger **double roll effect**
-
-Author: Azureheru
-
-Modified by cdpyx

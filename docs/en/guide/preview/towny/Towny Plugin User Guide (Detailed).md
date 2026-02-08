@@ -671,6 +671,3 @@ To prevent the above caveat explained by the asterisk, it is strongly recommende
 
 - `t claim`
 
-Author: Azureheru
-
-Modified by cdpyx

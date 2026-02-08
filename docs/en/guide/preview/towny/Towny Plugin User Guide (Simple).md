@@ -115,7 +115,3 @@ Territories are protected by **chunks**. Press `F3+G` to display chunk boundarie
 | **public**    | Control whether the town is public (allow external player teleportation) |
 | **pvp**       | Allow/prohibit combat between players         |
 | **taxpercent**| Set town tax percentage (via `/town set tax` command) |
-
-Author: Azureheru
-
-Modified by cdpyx
