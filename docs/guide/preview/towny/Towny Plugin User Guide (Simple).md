@@ -113,6 +113,3 @@ createTime: 2026/02/04 15:57:08
 | **public**     | 控制城镇是否公开（允许外部玩家传送）            |
 | **pvp**        | 允许/禁止玩家间战斗                             |
 | **taxpercent** | 设置城镇税收百分比（通过 `/town set tax` 命令） |
-本文作者：Azureheru
-
-cdpyx部分修改
