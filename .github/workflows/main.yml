@@ -2,12 +2,14 @@ name: Deploy Docs
 
 on:
   push:
-    branches:
-      - main
+    branches: [main]
 
 jobs:
   deploy-docs:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # ←←← 必须添加！
+
     steps:
       - uses: actions/checkout@v6
         with:
@@ -25,13 +27,11 @@ jobs:
       - name: Install deps
         run: pnpm install --frozen-lockfile
 
-    
-
       - name: Docs build
         run: pnpm docs:build
 
       - name: Deploy docs
-        uses: JamesIves/github-pages-deploy-action@v4
+        uses: JamesIves/github-pages-deploy-action@v4.9.0
         with:
           branch: gh-pages
           folder: docs/.vuepress/dist
