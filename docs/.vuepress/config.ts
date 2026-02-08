@@ -156,7 +156,7 @@ export default defineUserConfig({
     // lastUpdated: true,
     // contributors: true,
     // changelog: false,
-
+  plugins: { git: true },
     /**
      * 编译缓存，加快编译速度
      * @see https://theme-plume.vuejs.press/config/theme/#cache
