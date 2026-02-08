@@ -53,6 +53,14 @@ const zhGuideDoc = defineCollection({
       collapsible: true,
       children: [
         'preview',
+        {
+          text: 'Towny',
+          collapsible: true,
+          children: [
+            'preview/towny/Towny Plugin User Guide (Simple)',
+            'preview/towny/Towny Plugin User Guide (Detailed)',
+          ],
+        },
       ],
     },
   ],
