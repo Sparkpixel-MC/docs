@@ -9,15 +9,15 @@ config:
     effect: lightning
     hero:
       name: Sparkpixel Wiki
-      tagline: Sparkpixel Help
+      tagline: Sparkpixel 帮助中心
       text: 
       actions:
         -
           theme: brand
           text: Wiki
-          link: /en/guide/
+          link: /guide/
         -
           theme: alt
           text: Github →
-          link: https://github.com/Sparkpixel-MC/docs
+          link: https://github.com/Sparkpixel-MC/docs/
 ---
